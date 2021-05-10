@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Helm chart for Jenkins in Kubernetes
-name: k8s-jenkins
+name: jenkins-k8s
 version: 0.1.1
